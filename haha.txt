@@ -1,2 +1,501 @@
-hello world
-changeinhello
+ 24  cd hexo
+   25  hexo n "getting started with web"
+   26  hexo g
+   27  hexo d
+   28  hexo g
+   29  hexo d
+   30  hexo n "乱码"
+   31  hexo g
+   32  hexo clean
+   33  hexo s
+   34  hexo s -p 2000
+   35  hexo d
+   36  hexo n "论文重写"
+   37  hexo g
+   38  hexo d
+   39  git status
+   40  git add index.html
+   41  git status
+   42  git commit -m "updated"
+   43  git push origin master
+   44  hexo n "本以为美好，奈何糟糕"
+   45  hexo g
+   46  hexo d
+   47  git status
+   48  git add 舍女寺油田女20区块储层非均质性研究究.docx
+   49  git status
+   50  git push origin master
+   51  git status
+   52  git commit -m "my paper"
+   53  git push origin master
+   54  git status
+   55  hexo g
+   56  hexo d
+   57  hexo n "答辩过了"
+   58  hexo g
+   59  hexo d
+   60  hexo
+   61  hexo n "inline"
+   62  hexo g
+   63  hexo d
+   64  npm
+   65  npm version
+   66  npm install -g grunt-cli
+   67  hexo n "js"
+   68  hexo g
+   69  hexo d
+   70  hexo clean
+   71  hexo n "js学习"
+   72  hexo g
+   73  hexo s 2000
+   74  hexo d
+   75  hexo clean
+   76  hexo d
+   77  which python3
+   78  which python.exe
+   79  cd c:
+   80  which python3
+   81  which python
+   82  mkdir hello
+   83  cd hello
+   84  mkdir hello.txt
+   85  which python
+   86  which Python37
+   87  cd python
+   88  cd Python
+   89  cd c:
+   90  cd AppData/Local/Programs/Python
+   91  cd ~AppData/Local/Programs/Python
+   92  which python37
+   93  cd c:
+   94  pip
+   95  pip uninstall python37
+   96  vue init webpack baoge
+   97  node -v
+   98  remove node
+   99  uninstall node
+  100  vue-cli -v
+  101  npm vue -v
+  102  npm vue-cli
+  103  cnpm install vue-cli -g
+  104  npm install -g cnpm --registry=https://registry.npm.taobao.org
+  105  cd vue-project
+  106  vue init webpack test
+  107  gii init hello
+  108  git init hello
+  109  git config --global color.ui
+  110  git config -g color.ui auto
+  111  git config --global color.ui auto
+  112  git clone
+  113  git status
+  114  cnpm install --save-dev webpack
+  115  cd webpack
+  116  npx webpack
+  117  mkdir webpack-demo
+  118  cd webpack-demo
+  119  npm init -y
+  120  cnpm install webpack webpack-cli --save-dev
+  121  cnpm install --save lodash
+  122  npx webpack
+  123  npx webpack
+  124  npx webpack
+  125  npm init -y
+  126  mkdir mydemo
+  127  cd mydemo
+  128  npm init -y
+  129  cnpm install webpack webpack-cli -D
+  130  npx webpack ./src/main.js
+  131  npx webpack
+  132  cnpm install webpack-dev-server -D
+  133  cnpm install html-webpack-plugin -D
+  134  npm run build
+  135  cnpm install san san-router -D
+  136  npm run build
+  137  cnpm install san-loader
+  138  npm run build
+  139  npm run build
+  140  npm run build
+  141  cnpm install html-loader
+  142  cnpm install style-loader
+  143  npm run build
+  144  npm run start
+  145  vue -V
+  146  vue init webpack haha
+  147  java
+  148  javac hello.java
+  149  bin\jlin.exe --module-path jmods --add-modules java.desktop --output jre
+  150  javac hello.java
+  151  java hello
+  152  javac hello.java
+  153  javac hello.java
+  154  javac hello.java
+  155  java hello
+  156  java hello
+  157  java hello.java
+  158  java hello
+  159  java hello.java
+  160  java hello
+  161  dir
+  162  mkdir hello
+  163  cd hello
+  164  vue init webpack myproject
+  165  webpack
+  166  cnpm i webpack -g
+  167  npm install webpack -g
+  168  Start-Process "cmd.exe" -Verb runAs
+  169  Start-Process "cmd.exe" –Verb runAs
+  170  mkdir myproject
+  171  cd myproject
+  172  vue
+  173  vue init webpack hehe
+  174  node -v
+  175  node
+  176  npm
+  177  cd %PATH%
+  178  cd show
+  179  dir
+  180  vue
+  181  vue init
+  182  cnpm webpack -g
+  183  cnpm i webpack -g
+  184  webpack -v
+  185  webpack
+  186  vue init webpack hello
+  187  cnpm i bfj
+  188  cnpm i browserslist
+  189  cnpm i sock
+  190  cd ..
+  191  mkdir same
+  192  cd same
+  193  vue init webpack hello
+  194  cd diff
+  195  cd haha
+  196  npm run dev
+  197  cd same
+  198  dir
+  199  cd ..
+  200  cd show
+  201  dir
+  202  cd diff
+  203  npm run dev
+  204  dir
+  205  cd same
+  206  npm run dev
+  207  md test
+  208  mkdir test
+  209  cd test
+  210  vue init webpack hello
+  211  vue init webpack admin
+  212  dir
+  213  cd admin
+  214  npm run dev
+  215  mkdir project
+  216  cd project
+  217  vue init webpack hello
+  218  ls
+  219  cd project
+  220  ls
+  221  cd hello
+  222  npm run dev
+  223  ls
+  224  cd template
+  225  cd hello
+  226  npm run dev
+  227  mkdir today
+  228  cd today
+  229  vue init webpack hello
+  230  node --version
+  231  node
+  232  cd /
+  233  cd /
+  234  d:
+  235  D:
+  236  cd /
+  237  dir
+  238  dir
+  239  cd c
+  240  dir
+  241  cd d
+  242  D:
+  243  cd ../
+  244  D
+  245  cd d
+  246  dir
+  247  node --version
+  248  c
+  249  c:
+  250  cd c
+  251  c
+  252  c:
+  253  cd
+  254  cd /
+  255  dir
+  256  cd /c
+  257  dir
+  258  cd c
+  259  /c
+  260  c/
+  261  c
+  262  cd c:
+  263  dir
+  264  cd Users\john\Desktop\hello
+  265  cd Users/john/Desktop/hello
+  266  node hello
+  267  md test
+  268  mkdir test
+  269  cd test
+  270  node readfile.js
+  271  cd C:
+  272  mddir myapp
+  273  mkdir myapp
+  274  cd myapp
+  275  npm init -y
+  276  npm i express -S
+  277  cnpm i express -S
+  278  npm init
+  279  node
+  280  mkdir haha
+  281  rmdir haha
+  282  mkdir haha
+  283  cd haha
+  284  git init
+  285  git ls
+  286  git h
+  287  git help
+  288  git config
+  289  touch hehe.txt
+  290  touch hehe.txt
+  291  rm hehe
+  292  rm hehe.txt
+  293  touch hehe.txt
+  294  echo haha > lalllal
+  295  rm lalllal
+  296  echo 111111111111111111111111111111111111 > hello
+  297  head -3 hello
+  298  whoami
+  299  history
+  300  dir
+  301  ls
+  302  copy haha.txt ./复习/haha.txt
+  303  cp haha.txt ./复习/haha.txt
+  304  cp hehe.txt ./复习/haha.txt
+  305  rm ./复习/haha.txt
+  306  git config ls
+  307  git config --list
+  308  git config --global github
+  309  git config --global github.user
+  310  cls
+  311  cat hehe.txt
+  312  cat hehe.txt
+  313  echo holy shit > hehe.txt
+  314  cat hehe.txt
+  315  clear
+  316  rm hehe.txt
+  317  mkdir hehe
+  318  cd hehe
+  319  mkdir lala
+  320  touch hehe.txt
+  321  touch haha.txt
+  322  rm *
+  323  rm -rf
+  324  rm -rf *
+  325  cd hehe
+  326  touch haha.txt
+  327  echo name makes haha > haha.txt
+  328  echo sth never mention belongs fuck >> haha.txt
+  329  cd hehe
+  330  git init
+  331  touch haha.js
+  332  git status
+  333  git add haha.js
+  334  git status
+  335  git commit app.js -m 'first commit'
+  336  git commit haha.js -m 'first commit'
+  337  git status
+  338  echo hello world >> haha.js
+  339  git status
+  340  git checkout -- haha.js
+  341  git status
+  342  echo hello world >> haha.js
+  343  head -1 haha.js
+  344  git checkout -- haha.js
+  345  head -1 haha.js
+  346  git status
+  347  echo hahhah >> haha.js
+  348  git status
+  349  git checkout -- haha.js
+  350  git status
+  351  git config
+  352  git config --system
+  353  ls
+  354  echo haha > haha.txt
+  355  echo helllo world >> haha.js
+  356  git status
+  357  git checkout haha.js
+  358  git status
+  359  git add
+  360  git add .
+  361  git add all
+  362  git add haha.txt
+  363  git status
+  364  git commit -m 'fuck bitch'
+  365  git status
+  366  head -1 haha.js
+  367  head -1 haha.txt
+  368  echo hello world >> haha.js
+  369  git status
+  370  git add haha.js
+  371  git status
+  372  git add haha.js
+  373  git commit haha.js -m 'second commit'
+  374  git status
+  375  git log
+  376  git config core.autocrlf
+  377  cd hehe
+  378  git log
+  379  cd .git
+  380  ls
+  381  cd logs
+  382  ls
+  383  cd refs
+  384  ls
+  385  cd head
+  386  cd heads
+  387  ls
+  388  git log --oneline
+  389  git reflog
+  390  read
+  391  cd ../../../
+  392  cd ../
+  393  cat haha.js
+  394  head -1 haha.js
+  395  echo change haha >> haha.js
+  396  git commit -m 'oho'
+  397  git status
+  398  git add haha.js
+  399  git commit -m 'fuck'
+  400  git status
+  401  rm haha.js
+  402  git status
+  403  git checkout -- haha.js
+  404  git status
+  405  ssh-keygen -t rsa -C
+  406  ssh-keygen -t rsa -C "1802651637@qq.com"
+  407  ssh-agent bash
+  408  ssh-add id_rsa_new
+  409  ssh -T git@newgithub
+  410  git config --global --unset user.name
+  411  git config --global --unset user.email
+  412  git config user.email "1802651637@qq.com"
+  413  git config --global user.email "1802651637@qq.com"
+  414  git config --global user.name "new"
+  415  git config --global --list
+  416  ssh-keygen -t rsa -C "1802651637@qq.com"
+  417  mkfir haha.txt
+  418  mkdir haha
+  419  cd haha
+  420  git init
+  421  touch haha.txt
+  422  echo feel very sorry about your mother's death >> haha.txt
+  423  echo hahha >> haha.txt
+  424  git status
+  425  git add haha.txt
+  426  git commit -m 'lalall'
+  427  touch .gitignore
+  428  ~haha
+  429  cd ~
+  430  ls
+  431  cd desktop/haha
+  432  git status
+  433  git add *
+  434  git commit -m '1'
+  435  git add .gitignore
+  436  git commit -m '1'
+  437  echo hahaha >> haha.txt
+  438  git status
+  439  git add haha.txt
+  440  git commit -m '2'
+  441  git log --oneline
+  442  git reset --hard HEAD^
+  443  git reset --hard head^
+  444  git reset --hard 59ef982
+  445  git reset --hard ad69784
+  446  git log
+  447  git log --oneline
+  448  git reflog
+  449  echo lulalula >> haha.txt
+  450  git add haha.txt
+  451  git status
+  452  git reset head haha.txt
+  453  git status
+  454  git checkout -- haha.txt
+  455  cat haha.txt
+  456  git clone https://github.com/woyaoxueJava/hello-world.git
+  457  git push
+  458  git push haha.txt
+  459  mkdir test
+  460  cd test
+  461  cd ../
+  462  cd ../
+  463  mkdir test
+  464  cd test
+  465  echo "# quick start github" >> README.md
+  466  git init
+  467  git add README.md
+  468  git commit -m 'first commit'
+  469  git remote add origin https://github.com/woyaoxueJava/quick.git
+  470  echo hello world >> haha.txt
+  471  git add haha.txt
+  472  git commit -m 'sth changes'
+  473  git push -u origin master
+  474  clear
+  475  git remote -v
+  476  history
+  477  git pull
+  478  git status
+  479  git pull
+  480  git pull
+  481  git branch
+  482  git branch hello
+  483  git branch hello
+  484  git check hello
+  485  git checkout hello
+  486  git checkout master
+  487  git checkout hello
+  488  echo hello world >> world.txt
+  489  git add *
+  490  git commit -m 'change in hello'
+  491  ls
+  492  echo changeinhello >> haha.txt
+  493  git add *
+  494  git commit -m 'sencond change in hello'
+  495  cat haha.txt
+  496  git checkout master
+  497  cat haha.txt
+  498  clear
+  499  git branch
+  500  git merge hello
+  501  git branch -d hello
+  502  git branch
+  503  git branch test
+  504  git branch
+  505  git checkout test
+  506  touch haha.js
+  507  git checkout master
+  508  git checkout test
+  509  git status
+  510  git add *
+  511  git commit -m 'change in test'
+  512  git checkout master
+  513  git status
+  514  git checkout test
+  515  git status
+  516  git checkout master
+  517  git merge test
+  518  git status
+  519  git push
+  520  git branch
+  521  git branch -d test
+  522  git checkout 615db51
+  523  history
+
